@@ -1,0 +1,7 @@
+.results{
+    background-color: rgb(123, 184, 108);
+    width: 40vh;
+    height: 100%;
+    text-align: center;
+    border: 3px solid green
+}

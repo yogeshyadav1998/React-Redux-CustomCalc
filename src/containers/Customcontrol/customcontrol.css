@@ -1,0 +1,7 @@
+.Addcontrol {
+    background-color: rgb(204, 177, 55);
+    width: 40vh;
+    height: 100%;
+    text-align: center;
+    border: 3px solid rgb(168, 143, 0);
+}

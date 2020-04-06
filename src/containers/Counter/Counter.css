@@ -1,0 +1,63 @@
+.calc{
+    background-color: rgb(147, 206, 233);
+    width: 60vh;
+    height: 70vh;
+    border: 3px solid rgb(9, 59, 100);
+    
+}
+
+.calcbutton{
+    background-color: rgb(76, 135, 175); /* Green */
+    border: none;
+    margin-left: 22vh;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.calcbutton:hover{
+    background-color: rgb(88, 202, 103);
+}
+
+.addbutton{
+    background-color: rgb(76, 135, 175); /* Green */
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.addbutton:hover{
+    background-color: rgb(224, 205, 116);
+}
+
+.Addcontrol {
+    background-color: rgb(204, 177, 55);
+    width: 40vh;
+    height: 100%;
+    text-align: center;
+    border: 3px solid rgb(168, 143, 0);
+}
+
+.example-input .ant-input {
+    width: 200px;
+    margin: 0 8px 8px 0;
+  }
+
+
+
+.formitem{
+    margin: 10px 0px 10px 0px;
+    display: block;
+}
+
+.form{
+    text-align: center;
+    align-items: center;
+}

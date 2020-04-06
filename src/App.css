@@ -1,0 +1,11 @@
+.app{
+  height: 70vh;
+  width: 90%;
+  margin-top: 10vh;
+  margin-left: 5%;
+}
+
+.inline{
+  display: flex;
+  justify-content: space-between;
+}
